@@ -1,5 +1,5 @@
 HR Policy Document Classifier — Evaluation Report
-
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/z62umxthp8/badge.svg)](https://msrit.ask.thili.ai/b/z62umxthp8)
 1. Training Summary
 The GPT-2 sequence classification model (distilgpt2) was fine-tuned on labeled HR policy clauses across 5 HR categories for sequence classification.
 - Total labeled records: 50 (40 training, 10 held-out test)
