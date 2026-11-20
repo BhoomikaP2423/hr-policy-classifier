@@ -1,0 +1,14 @@
+Section 1: Annual and Sick Leave Entitlements
+Full-time employees accrue 20 days of paid annual leave per calendar year, prorated by start date. Unused leave up to 5 days may be carried over into Q1 of the following year with manager approval. Sick leave of up to 12 days per year is provided for personal illness or medical appointments.
+
+Section 2: Payroll Disbursement and Health Coverage
+Monthly base salaries are disbursed on the last working day of each month via direct bank transfer. Comprehensive group health insurance covers employees, spouses, and up to two dependent children from day one of employment, including hospitalization and maternity benefits.
+
+Section 3: Remote Access and Endpoint Protection
+Employees working remotely must connect via the corporate VPN before accessing internal repositories, staging databases, or HR systems. Company-issued laptops must have full-disk encryption enabled, automatic screen lock set to 5 minutes, and endpoint security agents active at all times.
+
+Section 4: Anti-Harassment and Conflict of Interest
+All personnel must treat colleagues, clients, and vendors with dignity and respect. Harassment, discrimination, or bullying is strictly prohibited. Employees must disclose any actual or potential conflict of interest, including outside employment or financial stakes in supplier businesses.
+
+Section 5: Notice Period and Exit Clearance
+Employees resigning from the company must serve a 60-day notice period unless waived in writing by the department head and Human Resources. All company laptops, access badges, and corporate credit cards must be returned on or before the last working day to release full and final settlement.
