@@ -94,8 +94,7 @@ def to_markdown(r: dict) -> str:
         f"| TF-IDF + Logistic Regression | {r['baseline']['accuracy']:.1%} | {r['baseline']['macro_f1']:.1%} |",
         f"| **Fine-tuned GPT-2 (this tool)** | **{r['gpt2']['accuracy']:.1%}** | **{r['gpt2']['macro_f1']:.1%}** |",
     ]
-    return "
-".join(lines)
+    return "\n".join(lines)
 
 
 def write_report(r: dict, root: Path | None = None) -> str:
